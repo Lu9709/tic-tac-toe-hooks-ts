@@ -8,3 +8,5 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <App />
   </React.StrictMode>
 )
+// 问：数组结构为  id, value, parent_id，怎么把它变成森林？
+// 举例
